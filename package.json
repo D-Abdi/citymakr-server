@@ -11,6 +11,7 @@
   "dependencies": {
     "eiows": "^4.1.2",
     "express": "^4.18.2",
+    "nodemon": "^2.0.20",
     "socket.io": "^4.5.4",
     "socket.io-client": "^4.5.4"
   }
